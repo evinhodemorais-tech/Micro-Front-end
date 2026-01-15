@@ -79,7 +79,7 @@ npm ou yarn
 VS Code (ou outro editor)
 
 1️⃣ Clonar o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone <(https://github.com/evinhodemorais-tech/Micro-Front-end)>
 cd micro-front-end
 
 2️⃣ Instalar dependências
